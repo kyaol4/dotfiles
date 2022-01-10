@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kyaol4@gmail.com
+	name = Dongwook Kim
